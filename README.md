@@ -1,0 +1,2 @@
+# SKILLCRAFT_INTERNSHIP_TASKS
+Internship completed projects
